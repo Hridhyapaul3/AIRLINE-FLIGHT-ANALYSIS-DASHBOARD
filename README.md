@@ -1,7 +1,8 @@
 
 <img width="1365" height="693" alt="image" src="https://github.com/user-attachments/assets/5d010156-f270-4be6-aa43-75ec9b92e305" />
 
-<iframe title="AIRLINE FLIGHT ANALYST DASHBOARD" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZjgxYTNkZjUtMmRkNy00ODA5LTg0NzYtNjAzZGQxMTBjN2FkIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+
+
 
 # ✈️ Airline Flight Analysis Dashboard
 
